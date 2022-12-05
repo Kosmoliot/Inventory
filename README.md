@@ -3,7 +3,7 @@
 
 ## Description</a>
 
-This is an Inventory Tool for managing the warehouse, and more importantly, performing stock taking. This tool will optimise delivery time and improve organisation, which will give an overview what each stock-taking session entailes.
+This is an Inventory Tool for managing a stockroom / warehouse, and more importantly, performing stock taking. This tool will optimise delivery time and improve organisation, which will give an overview what each stock-taking session entailes.
 
 
 ## Table of Contents
